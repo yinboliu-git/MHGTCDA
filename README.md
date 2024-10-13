@@ -12,3 +12,22 @@ Extensive cross-validation tests against nine other advanced models and three co
 For a comprehensive understanding of the MHGTCDA model and its applications in circRNA-drug sensitivity prediction, please refer to our detailed publication, Prediction of circRNA-drug sensitivity using random auto-encoders and multi-layer heterogeneous graph Transformers.
 
 # Requirements
+python == 3.11.4
+
+pandas == 1.5.3
+
+numpy==1.24.3
+
+matplotlib== 3.7.1
+
+scikit-learn==1.3.0
+
+pytorch==2.0.1
+
+torch_geometric ==2.3.1
+
+dgl == 2.0.0+cu117
+
+scipy == 1.10.1
+
+seaborn == 0.12.2
